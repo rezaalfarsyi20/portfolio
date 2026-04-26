@@ -1,0 +1,295 @@
+{
+    "hero": {
+        "title": "I <span class='highlight-text-primary'>help</span> founders turn <span class='highlight-text-primary'> ideas</span> into seamless digital experiences",
+        "description": "Hello, I'm <span class='highlight-text-secondary'>Kintaro</span>, a Full-Stack Web Developer, crafting digital experiences that elevate your brand with modern engineering.",
+        "cta_primary": "Let's Connect",
+        "cta_secondary": "Projects",
+        "stats": "<span class='highlight-text-tertiary'>Startup</span> Ready Solutions",
+        "scroll": "Scroll Down"
+    },
+    "about": {
+        "title": "About",
+        "intro": "I am a <span class='highlight-text-primary'>digital craftsman </span> focused on creating specific,<span class='highlight-text-tertiary'> immersive</span> experiences.",
+        "description": "Beyond just writing code, I architect digital solutions that bridge the gap between human intuition and technical precision. My philosophy is rooted in <span className='highlight-text-secondary'>Intentional Minimalism</span> —strip away the noise, amplify the signal.",
+        "full": "To me, digital development is more than just shipping features; it is a silent dialogue between the creator and the user. As a <span class='highlight-text-primary'>Digital Craftsman</span>, I view code as a medium for artistry, where technical precision serves as the foundation for human-centric experiences. My methodology is centered around <span class='highlight-text-secondary'>Intentional Minimalism</span>. In an era of digital noise, I believe the most powerful solutions aren't the loudest, but the most refined. I focus on stripping away the superfluous to <span class='highlight-text-tertiary'>amplify the core signal</span>, ensuring that every interaction is purposeful and every line of code adds value. I architect solutions where the gap between intuition and logic disappears. By balancing aesthetic elegance with robust performance, I build environments that feel natural rather than engineered. For me, the goal isn't just to build a product—it's to craft a legacy of clarity in an increasingly complex digital landscape.",
+        "cta": "Read Full Biography"
+    },
+    "manifesto": {
+        "items": [
+            "RADICAL TRANSPARENCY",
+            "INTENTIONAL MINIMALISM",
+            "ARCHITECTURAL INTEGRITY",
+            "FIRST PRINCIPLES THINKING",
+            "PERFORMANCE WITHOUT COMPROMISE",
+            "SCALABLE VISION"
+        ]
+    },
+    "stack": {
+        "title": "STACK",
+        "description": "The technologies and tools I use to bring ideas to life.",
+        "items": [
+            {
+                "title": "Frontend Technologies",
+                "items": [
+                    {
+                        "name": "React",
+                        "icon": "https://cdn.simpleicons.org/react"
+                    },
+                    {
+                        "name": "Next.js",
+                        "icon": "https://cdn.simpleicons.org/nextdotjs"
+                    },
+                    {
+                        "name": "Tailwind CSS",
+                        "icon": "https://cdn.simpleicons.org/tailwindcss"
+                    },
+                    {
+                        "name": "Bootstrap",
+                        "icon": "https://cdn.simpleicons.org/bootstrap"
+                    },
+                    {
+                        "name": "Framer Motion",
+                        "icon": "https://cdn.simpleicons.org/framer"
+                    },
+                    {
+                        "name": "Three.js",
+                        "icon": "https://cdn.simpleicons.org/threedotjs"
+                    },
+                    {
+                        "name": "TypeScript",
+                        "icon": "https://cdn.simpleicons.org/typescript"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "icon": "https://cdn.simpleicons.org/javascript"
+                    },
+                    {
+                        "name": "HTML5",
+                        "icon": "https://cdn.simpleicons.org/html5"
+                    },
+                    {
+                        "name": "CSS3",
+                        "icon": "https://www.svgrepo.com/show/452185/css-3.svg"
+                    }
+                ]
+            },
+            {
+                "title": "Backend Technologies",
+                "items": [
+                    {
+                        "name": "Node.js",
+                        "icon": "https://cdn.simpleicons.org/nodedotjs"
+                    },
+                    {
+                        "name": "PHP",
+                        "icon": "https://cdn.simpleicons.org/php"
+                    },
+                    {
+                        "name": "Laravel",
+                        "icon": "https://cdn.simpleicons.org/laravel"
+                    },
+                    {
+                        "name": "ASP.NET",
+                        "icon": "https://cdn.simpleicons.org/dotnet"
+                    },
+                    {
+                        "name": "Rust",
+                        "icon": "https://cdn.simpleicons.org/rust"
+                    },
+                    {
+                        "name": "C#",
+                        "icon": "https://www.svgrepo.com/show/452184/csharp.svg"
+                    },
+                    {
+                        "name": "Python",
+                        "icon": "https://cdn.simpleicons.org/python"
+                    },
+                    {
+                        "name": "Discord.js",
+                        "icon": "https://cdn.simpleicons.org/discord"
+                    }
+                ]
+            },
+            {
+                "title": "Databases & ORMs",
+                "items": [
+                    {
+                        "name": "PostgreSQL",
+                        "icon": "https://cdn.simpleicons.org/postgresql"
+                    },
+                    {
+                        "name": "MySQL",
+                        "icon": "https://cdn.simpleicons.org/mysql"
+                    },
+                    {
+                        "name": "MongoDB",
+                        "icon": "https://cdn.simpleicons.org/mongodb"
+                    },
+                    {
+                        "name": "Redis",
+                        "icon": "https://cdn.simpleicons.org/redis"
+                    },
+                    {
+                        "name": "Prisma",
+                        "icon": "https://cdn.simpleicons.org/prisma"
+                    }
+                ]
+            },
+            {
+                "title": "Tools & Infrastructure",
+                "items": [
+                    {
+                        "name": "Docker",
+                        "icon": "https://cdn.simpleicons.org/docker"
+                    },
+                    {
+                        "name": "Git",
+                        "icon": "https://cdn.simpleicons.org/git"
+                    },
+                    {
+                        "name": "Vercel",
+                        "icon": "https://cdn.simpleicons.org/vercel"
+                    },
+                    {
+                        "name": "Tauri",
+                        "icon": "https://cdn.simpleicons.org/tauri"
+                    }
+                ]
+            }
+        ]
+    },
+    "projects": {
+        "title": "PROJECTS",
+        "intro": "A collection of <span class='highlight-text-primary'>experiments</span>, <span class='highlight-text-primary'>products</span>, and <span class='highlight-text-primary'>digital artifacts</span> forged in the <span class='highlight-text-secondary'>void</span>.",
+        "scroll_text": "SCROLL TO EXPLORE",
+        "end_text": "END",
+        "items": [
+            {
+                "id": "1",
+                "title": "NEBULA",
+                "category": "AI INTERFACE",
+                "year": "2025",
+                "description": "Generative intelligence dashboard with real-time neural visualization.",
+                "image": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=1974&auto=format&fit=crop",
+                "demo": "https://github.com/xkintaro/nebula",
+                "repo": "https://github.com/xkintaro/aether",
+                "stack": [
+                    "rust",
+                    "python"
+                ]
+            },
+            {
+                "id": "2",
+                "title": "VORTEX",
+                "category": "DEFI PROTOCOL",
+                "year": "2024",
+                "description": "Next-gen liquidity pooling with algorithmic yield optimization.",
+                "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=2032&auto=format&fit=crop",
+                "demo": "https://github.com/xkintaro/vortex",
+                "repo": "https://github.com/xkintaro/aether",
+                "stack": [
+                    "rust",
+                    "python"
+                ]
+            },
+            {
+                "id": "3",
+                "title": "AETHER",
+                "category": "SPATIAL COMPUTING",
+                "year": "2024",
+                "description": "OS for the spatial web. Gestural interaction on a boundless canvas.",
+                "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop",
+                "demo": "https://github.com/xkintaro/aether",
+                "repo": "https://github.com/xkintaro/aether",
+                "stack": [
+                    "rust",
+                    "python"
+                ]
+            }
+        ]
+    },
+    "roadmap": {
+        "title": "ROADMAP",
+        "items": [
+            {
+                "id": "01",
+                "year": "2022",
+                "description": "The inception of the digital conscious. Core systems online.",
+                "tags": [
+                    "SYSTEM",
+                    "CORE"
+                ]
+            },
+            {
+                "id": "02",
+                "year": "2023",
+                "description": "Establishing high-bandwidth interfaces between user and machine.",
+                "tags": [
+                    "INTERFACE",
+                    "NETWORK"
+                ]
+            },
+            {
+                "id": "03",
+                "year": "2024",
+                "description": "Scaling vector databases to accommodate infinite context windows.",
+                "tags": [
+                    "SCALING",
+                    "DATABASE"
+                ]
+            },
+            {
+                "id": "04",
+                "year": "2025",
+                "description": "Achieving autonomous self-improvement cycles.",
+                "tags": [
+                    "AI",
+                    "AUTONOMY"
+                ]
+            },
+            {
+                "id": "05",
+                "year": "2026",
+                "description": "Breaking the silicon barrier. Bio-digital convergence.",
+                "tags": [
+                    "UNKNOWN"
+                ]
+            }
+        ]
+    },
+    "contact": {
+        "title": "CONTACT",
+        "email": "hello@kintaro.dev",
+        "phone": "+90 530 837 27 77",
+        "send_email": "Send an Email",
+        "direct_line": "Direct Line",
+        "all_rights_reserved": "ALL RIGHTS RESERVED.",
+        "modal_title": "Let's Connect",
+        "modal_description": "Send me a message and I'll get back to you as soon as possible."
+    },
+    "social": {
+        "title": "SOCIAL",
+        "items": [
+            {
+                "label": "GitHub",
+                "href": "https://github.com/xkintaro"
+            },
+            {
+                "label": "Discord",
+                "href": "https://discord.gg/NSQk27Zdkv"
+            },
+            {
+                "label": "Instagram",
+                "href": "https://instagram.com/xkintaro"
+            }
+        ]
+    },
+    "others": {
+        "coming_soon": "Coming Soon.",
+        "about_project": "About the Project",
+        "technologies": "Technologies",
+        "live_demo": "Live Demo",
+        "source_code": "Source Code",
+        "project_details": "Details about"
+    }
+}
