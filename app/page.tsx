@@ -8,7 +8,6 @@ import Contact from "@/components/sections/contact";
 import ThemeSwitcher from "@/components/settings/theme-switcher";
 import ScrollProgress from "@/components/scroll-progress";
 import LanguageSwitcher from "@/components/settings/language-switcher";
-import ComingSoon from "@/components/sections/coming-soon";
 
 export default function Home() {
   return (
