@@ -7,7 +7,7 @@ import {
 } from "@/components/ui/dialog";
 
 import { useLanguage } from "@/context/language-context";
-import { ArrowUpRight, Mail, MapPin, Phone } from "lucide-react";
+import { ArrowUpRight, Mail, Phone } from "lucide-react";
 import { useEffect } from "react";
 import { useLenis } from "@/components/smooth-scroll";
 
