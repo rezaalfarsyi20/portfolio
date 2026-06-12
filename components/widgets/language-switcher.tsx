@@ -48,7 +48,7 @@ export default function LanguageSwitcher() {
                         <span className={cn("mr-2 flex h-3.5 w-3.5 items-center justify-center")}>
                             {language === "tr" && <Check className="h-3.5 w-3.5" />}
                         </span>
-                        <span className="text-xs tracking-widest uppercase">Türkçe</span>
+                        <span className="text-xs tracking-widest uppercase">Indonesia</span>
                     </Link>
                 </DropdownMenuItem>
             </DropdownMenuContent>

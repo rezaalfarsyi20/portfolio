@@ -78,7 +78,7 @@ export default function Contact() {
                     <div className="text-sm font-mono tracking-widest text-muted-foreground uppercase flex items-center gap-4 max-xl:hidden">
                         <span>© {new Date().getFullYear()}</span>
                         <span className="w-1.5 h-1.5 rounded-full bg-primary/50" />
-                        <span>KINTARO. {content.contact.all_rights_reserved}</span>
+                        <span>REZA. {content.contact.all_rights_reserved}</span>
                     </div>
 
                     <div className="flex flex-wrap items-center justify-center gap-4">

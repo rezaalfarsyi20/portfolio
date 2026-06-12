@@ -43,56 +43,33 @@ export function Preloader() {
                         transition={{ duration: 0.6, ease: "easeOut" }}
                         className="relative z-10 flex flex-col items-center gap-8"
                     >
-                        <div className="relative flex items-center justify-center w-36 h-36">
-                            <motion.svg
-                                animate={{ rotate: 360 }}
-                                transition={{ duration: 12, ease: "linear", repeat: Infinity }}
-                                viewBox="0 0 100 100"
-                                className="absolute inset-0 w-full h-full opacity-40"
+                        <div className="flex flex-col items-center justify-center gap-4">
+                            <motion.p
+                                className="text-4xl font-black tracking-widest uppercase"
+                                animate={{
+                                    opacity: [1, 0.3, 1, 0.5, 1],
+                                    x: [0, -3, 3, -2, 0],
+                                }}
+                                transition={{
+                                    duration: 0.8,
+                                    repeat: Infinity,
+                                    ease: "easeInOut"
+                                }}
                             >
-                                <circle
-                                    cx="50" cy="50" r="48"
-                                    fill="none"
-                                    stroke="currentColor"
-                                    strokeWidth="0.5"
-                                    strokeDasharray="2 6"
-                                    className="text-muted-foreground"
-                                />
-                            </motion.svg>
-
-                            <motion.svg
-                                viewBox="0 0 100 100"
-                                className="absolute inset-0 w-full h-full -rotate-90"
+                                REZA ALFARSYI
+                            </motion.p>
+                            <motion.p
+                                className="text-xs tracking-[0.5em] text-muted-foreground uppercase"
+                                animate={{ opacity: [0.3, 1, 0.3] }}
+                                transition={{
+                                    duration: 1.5,
+                                    repeat: Infinity,
+                                    ease: "easeInOut"
+                                }}
                             >
-                                <circle
-                                    cx="50" cy="50" r="46"
-                                    fill="none"
-                                    stroke="currentColor"
-                                    strokeWidth="1"
-                                    className="text-border/30"
-                                />
-                                <motion.circle
-                                    cx="50" cy="50" r="46"
-                                    fill="none"
-                                    stroke="currentColor"
-                                    strokeWidth="1.5"
-                                    strokeDasharray="289"
-                                    initial={{ strokeDashoffset: 289 }}
-                                    animate={{ strokeDashoffset: 0 }}
-                                    transition={{ duration: 2, ease: [0.65, 0, 0.35, 1] }}
-                                    className="text-primary"
-                                />
-                            </motion.svg>
-
-                            <div className="absolute inset-3 rounded-full border border-border/50 bg-secondary/5 backdrop-blur-md" />
-
-                            <img
-                                src="/favicon.ico"
-                                alt="Logo"
-                                className="w-14 h-14 object-contain z-10"
-                            />
+                                AI Automation & Frontend
+                            </motion.p>
                         </div>
-
                     </motion.div>
                 </motion.div>
             )}

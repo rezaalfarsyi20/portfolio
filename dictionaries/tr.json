@@ -1,47 +1,47 @@
 {
-    "nav": {
-        "home": "Ana Sayfa",
-        "about": "Hakkımda",
-        "stack": "Teknolojiler",
-        "projects": "Projeler",
-        "roadmap": "Yol Haritası",
-        "contact": "İletişim"
-    },
-    "hero": {
-        "cta_primary": "İletişim",
-        "cta_secondary": "Projeler",
-        "scroll": "Aşağı Kaydır"
-    },
-    "about": {
-        "title": "Hakkımda",
-        "cta": "Tamamını Oku"
-    },
-    "stack": {
-        "title": "Teknolojiler"
-    },
-    "projects": {
-        "title": "PROJELER",
-        "scroll_text": "KEŞFETMEK İÇİN KAYDIR",
-        "end_text": "SON"
-    },
-    "roadmap": {
-        "title": "Yol Haritası"
-    },
-    "contact": {
-        "title": "İletişim",
-        "send_email": "E-posta Gönder",
-        "direct_line": "Telefon Numarası",
-        "all_rights_reserved": "TÜM HAKLARI SAKLIDIR.",
-        "modal_title": "İletişim Bilgilerim",
-        "modal_description": "Bana bir mesaj gönderin, en kısa sürede size geri dönüş yapayım."
-    },
-    "others": {
-        "about_project": "Proje Hakkında",
-        "technologies": "Teknolojiler",
-        "live_demo": "Canlı Demo",
-        "source_code": "Kaynak Kodları",
-        "project_details": "Proje Detayları",
-        "select_language": "Dil Seçin",
-        "change_the_site_language": "Sitenin dilini değiştirmek için tıklayın."
-    }
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "stack": "Keahlian",
+    "projects": "Proyek",
+    "roadmap": "Rencana",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "cta_primary": "Hubungi",
+    "cta_secondary": "Lihat Karya",
+    "scroll": "Gulir ke Bawah"
+  },
+  "about": {
+    "title": "Tentang",
+    "cta": "Baca Selengkapnya"
+  },
+  "stack": {
+    "title": "KEAHLIAN"
+  },
+  "projects": {
+    "title": "PROYEK",
+    "scroll_text": "GULIR UNTUK MELIHAT",
+    "end_text": "SELESAI"
+  },
+  "roadmap": {
+    "title": "Rencana"
+  },
+  "contact": {
+    "title": "KONTAK",
+    "send_email": "Kirim Email",
+    "direct_line": "Nomor Langsung",
+    "all_rights_reserved": "SEMUA HAK DILINDUNGI.",
+    "modal_title": "Mari Terhubung",
+    "modal_description": "Kirim pesan dan saya akan segera membalas."
+  },
+  "others": {
+    "about_project": "Tentang Proyek",
+    "technologies": "Teknologi",
+    "live_demo": "Demo Langsung",
+    "source_code": "Kode Sumber",
+    "project_details": "Detail tentang",
+    "select_language": "Pilih Bahasa",
+    "change_the_site_language": "Ubah bahasa situs."
+  }
 }
