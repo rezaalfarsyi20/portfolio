@@ -167,17 +167,16 @@
             },
             {
                 "id": "3",
-                "title": "File Manager",
-                "category": "Web Application",
-                "year": "2025",
-                "description": "Kintaro File Manager is a self-hosted file management application with a cyberpunk-inspired interface. It lets you upload, organize, tag, and filter any type of file through a sleek, modern web interface backed by SQLite — no external database required.",
-                "image": "/projects/20260305210513749.jpg",
-                "repo": "https://github.com/xkintaro/file-manager",
+                "title": "Nivora Indo",
+                "category": "Top Up Platform",
+                "year": "2026",
+                "description": "Nivora Indo is a digital top-up platform providing fast and reliable game credit, mobile data, and digital product services for Indonesian users.",
+                "image": "/projects/nivora-topup.jpg",
+                "demo": "https://nivoraindo.com",
                 "stack": [
-                    "React",
-                    "TailwindCSS",
+                    "Next.js",
                     "Node.js",
-                    "SQLite"
+                    "Supabase"
                 ]
             }
         ]
