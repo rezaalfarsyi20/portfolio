@@ -55,7 +55,7 @@ export default function Contact() {
                     </BlurReveal>
                     <BlurReveal>
                         <a
-                            href={`tel:${content.contact.phone.replace(/\s+/g, '')}`}
+                            href="https://wa.me/6282273265473"
                             className="group flex flex-col md:flex-row md:items-center justify-between py-10 md:py-14 border-b border-border/50 transition-all duration-700 hover:px-8"
                         >
                             <span className="text-sm font-mono tracking-widest text-muted-foreground uppercase mb-4 md:mb-0 transition-colors duration-500 group-hover:text-foreground">

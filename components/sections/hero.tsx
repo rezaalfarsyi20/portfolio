@@ -20,11 +20,11 @@ export default function Hero() {
     const blurValue = useTransform(scrollY, [0, 800], [0, 10]);
     const filter = useMotionTemplate`blur(${blurValue}px)`;
     const track1 = [
-        "/hero-slider/reza-1.jpg",
+        "/hero-slider/reza-2.jpg",
     ];
 
     const track2 = [
-        "/hero-slider/reza-1.jpg",
+        "/hero-slider/reza-2.jpg",
     ];
 
     const col1Images = [...track1];
@@ -47,9 +47,9 @@ export default function Hero() {
 
             <motion.div
                 style={{ opacity }}
-                className="absolute top-32 right-6 sm:right-12 md:right-16 lg:right-24 xl:right-36 2xl:right-48 bottom-0 h-full w-55 sm:w-65 md:w-85 lg:w-100 xl:w-110 2xl:w-120 flex gap-3 sm:gap-4 px-2 overflow-hidden z-5 pointer-events-none select-none opacity-[0.22] dark:opacity-[0.28] mix-blend-luminosity"
+                className="absolute top-32 right-6 sm:right-12 md:right-16 lg:right-24 xl:right-36 2xl:right-48 bottom-0 h-full w-55 sm:w-65 md:w-85 lg:w-100 xl:w-110 2xl:w-120 flex gap-3 sm:gap-4 px-2 overflow-hidden z-5 pointer-events-none select-none opacity-[0.22] dark:opacity-[0.28] mix-blend-luminosity max-md:right-0 max-md:left-0 max-md:w-full"
             >
-                <div className="max-md:hidden flex-1 h-full overflow-hidden relative">
+                <div className="flex-1 h-full overflow-hidden relative max-md:mx-auto">
                     <motion.div
                         animate={{ y: [0, -10, 0], scale: [1, 1.02, 1] }}
                         transition={{
@@ -67,7 +67,7 @@ export default function Hero() {
                                     fill
                                     sizes="(max-width: 640px) 50vw, (max-width: 1280px) 25vw, 15vw"
                                     loading="lazy"
-                                    className="object-cover object-center grayscale contrast-[1.08] brightness-[0.8]"
+                                    className="object-cover object-center grayscale contrast-[1.3] brightness-[0.9]"
                                 />
                             </div>
                         ))}
